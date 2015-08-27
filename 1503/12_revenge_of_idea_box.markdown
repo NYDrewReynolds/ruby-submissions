@@ -59,3 +59,23 @@ __Student:__Vane Gomez
  
  __Comments__
 JS looked great! Nice partials! Could have finished more features.
+
+
+__Reviewer:__ Drew Reynolds
+
+__Student:__ Margarett Ly
+
+Github repo: https://github.com/aoili/idea_box
+
+* Features: 2: Missing one or two features from the base expectations
+* User Interface: 4: The application is pleasant, logical, and easy to use
+* Testing: 4: Project has a running test suite that exercises the application at multiple levels including JavaScript tests
+* Rails Style: 4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and push business logic down where it belongs
+* Ruby Style: 4: Developer writes code that is exceptionally clear and well-factored
+* JS Style: 4: Developer writes code that is exceptionally clear and well-factored
+
+__Comments__
+
+Adding an idea was quick & easy. Project was missing ability to search & upvote asynchronously.
+Testing was done very well. The suite included in depth testing on a model level all the way to testing the javascript features.
+Ruby & Rails code was clean & organized. 
