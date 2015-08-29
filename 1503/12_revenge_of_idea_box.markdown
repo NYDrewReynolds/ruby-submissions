@@ -1,5 +1,3 @@
-## Template
-
 ### Sally MacNicholas
 
 __Reviewer:__ Vane Gomez
@@ -16,7 +14,7 @@ Github repo:
 __Comments__
 
 * I really liked the user interface. Clean and simple to use.
-* I would really be nice to see some of your html in partials. 
+* I would really be nice to see some of your html in partials.  
 
 ### Whitney Hiemstra__
 
@@ -166,3 +164,22 @@ __Comments__
 Tests have excellent coverage of edge cases for model tests. Tests are clear and easy to understand. Feature tests could cover more user interface.
 JS code is clean and easy to read. Callbacks could be extracted into separate functions. Responsibilities of each function are clear and intuitive.
 Excellent code quality, code is very clear, concise, and clean across the board. I like your use of rails helper methods and gems. App is very easy for users to navigate and the interface is very intuitive.
+
+### Margarett Ly
+
+__Reviewer:__ Drew Reynolds
+
+Github repo:
+
+* Features (2)
+* User Interface (3)
+* Testing (4)
+* Rails Style (4)
+* Ruby Style (4)
+* JS Style (4)
+
+__Comments__
+
+* I really liked the user interface. Clean and simple to use.
+* Project was missing ability to search ideas.
+* Testing coverage was very in depth from controllers & models to javascript testing using Selenium
